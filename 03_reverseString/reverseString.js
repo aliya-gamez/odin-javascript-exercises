@@ -1,3 +1,4 @@
+//finished
 const reverseString = function(stringInput) {
     const chars = stringInput.split('');
     let stringLength = chars.length;
